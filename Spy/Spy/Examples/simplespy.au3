@@ -6,7 +6,7 @@
 #include <Misc.au3>
 #include <Array.au3>
 #include <GDIPlus.au3>
-#include "..\..\..\UIAutomation.au3"
+#include "D:\AutoIT\AutoIt3\UIAutomation.au3"
 
 #AutoIt3Wrapper_UseX64=Y  ;Should be used for stuff like tagpoint having right struct etc. when running on a 64 bits os
 
